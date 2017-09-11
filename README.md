@@ -12,7 +12,7 @@
 
 # Lets test links in markdown
 
-[this is a link](https://akshayshipurkar.com)
+[Link to my Website](https://akshayshipurkar.com)
 
 # Lets Test images
 ![Rich Cat](http://i.imgur.com/4AiXzf8.jpg) 
