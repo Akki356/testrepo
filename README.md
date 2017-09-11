@@ -14,5 +14,5 @@
 
 [this is a link] (https://akshayshipurkar.com)
 
-# Lest Test images
+# Lets Test images
 ![Rich Cat](http://i.imgur.com/4AiXzf8.jpg) 
