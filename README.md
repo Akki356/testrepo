@@ -3,7 +3,7 @@
 
 * this is a bullet point
 
-#Table
+# Table
 
 | Column 1 | Column 2 | Column2 |
 | -------- |--------- |-------- |
