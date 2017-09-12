@@ -16,3 +16,10 @@
 
 # Lets Test images
 ![Rich Cat](http://i.imgur.com/4AiXzf8.jpg) 
+
+# This is some code in the code tag
+
+><html>
+<title>Hello World</title>
+<body> This is some text </body>
+<html>
